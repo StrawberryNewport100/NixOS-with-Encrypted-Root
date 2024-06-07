@@ -1,0 +1,12 @@
+outline-color = #00CC7A
+outline-width = 1
+border-color = #121212
+border-width = 0
+background-color = #121212
+text-color = #00CC7A
+selection-color = #FFFF00
+prompt-text = "run "
+num-results = 9
+hide-cursor = true
+width = 640
+height = 480
