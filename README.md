@@ -5,6 +5,7 @@ This setup allows for encrypted root partition and will display the windows dual
 Thank you very much to @martijnvermaat and @walkermalling who both made detailed gists on encrypting your root in NixOS:
 
 https://gist.github.com/martijnvermaat/76f2e24d0239470dd71050358b4d5134
+
 https://gist.github.com/walkermalling/23cf138432aee9d36cf59ff5b63a2a58
 
 I followed their guidance along with the NixOS guide on dualbooting:
